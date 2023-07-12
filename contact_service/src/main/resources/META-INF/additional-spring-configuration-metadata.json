@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "server.application.name",
+    "type": "java.lang.String",
+    "description": "A description for 'server.application.name'"
+  },
+  {
+    "name": "server.spring",
+    "type": "java.lang.String",
+    "description": "A description for 'server.spring'"
+  },
+  {
+    "name": "spring.application.eureka.instance",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.eureka.instance'"
+  },
+  {
+    "name": "spring.application.eureka.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.eureka.hostname'"
+  }
+]}

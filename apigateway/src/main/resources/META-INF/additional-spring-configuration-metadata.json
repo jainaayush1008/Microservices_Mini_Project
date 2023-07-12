@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "eureka.instance.spring",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.spring'"
+  },
+  {
+    "name": "eureka.instance.application",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.application'"
+  },
+  {
+    "name": "eureka.instance.name",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.name'"
+  },
+  {
+    "name": "spring.application.cloud",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.cloud'"
+  },
+  {
+    "name": "spring.application.gateway",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.gateway'"
+  },
+  {
+    "name": "spring.application.routes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.routes'"
+  },
+  {
+    "name": "spring.application.-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.-id'"
+  },
+  {
+    "name": "spring.application.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.uri'"
+  },
+  {
+    "name": "spring.application.predicates",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.predicates'"
+  },
+  {
+    "name": "spring.application.id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.id'"
+  },
+  {
+    "name": "spring.application.id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.id'"
+  },
+  {
+    "name": "cloud.gateway.routes",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.gateway.routes'"
+  }
+]}

@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "server.fetchRegistry.server",
+    "type": "java.lang.String",
+    "description": "A description for 'server.fetchRegistry.server'"
+  },
+  {
+    "name": "server.registerWithEureka",
+    "type": "java.lang.String",
+    "description": "A description for 'server.registerWithEureka'"
+  },
+  {
+    "name": "server.client",
+    "type": "java.lang.String",
+    "description": "A description for 'server.client'"
+  },
+  {
+    "name": "server.eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'server.eureka'"
+  },
+  {
+    "name": "server.fetchRegistry.waitTimeInMsWhenSuncEmpty",
+    "type": "java.lang.String",
+    "description": "A description for 'server.fetchRegistry.waitTimeInMsWhenSuncEmpty'"
+  },
+  {
+    "name": "server.fetchRegistry.instance",
+    "type": "java.lang.String",
+    "description": "A description for 'server.fetchRegistry.instance'"
+  },
+  {
+    "name": "server.fetchRegistry.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'server.fetchRegistry.hostname'"
+  }
+]}
